@@ -6,3 +6,6 @@ This project will guide you towards:
 2. Generating 4 digit OTP
 3. Creating random password based on some conditions
 4. Creating readable password from known text file.
+
+
+# We are importing random package to achieve this.
